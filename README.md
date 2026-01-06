@@ -47,6 +47,17 @@ This project analyzes a real-world Brazilian e-commerce dataset (Olist) to uncov
 ---
 
 ## 📁 Repository Structure
+```
+olist-ecommerce-analytics/
+├── README.md
+└── screenshots/
+    ├── executive_overview.png
+    ├── sales_category.png
+    ├── customer_insights.png
+    └── delivery_geography.png
+```
+
+
 
 ---
 
@@ -74,6 +85,7 @@ The dashboard file can be shared upon request.
 
 ## ✍️ Author
 Ashish Kharat
+
 
 
 
