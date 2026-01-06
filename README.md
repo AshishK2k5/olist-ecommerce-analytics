@@ -6,10 +6,11 @@ This project analyzes a real-world Brazilian e-commerce dataset (Olist) to uncov
 ---
 
 ## 🧰 Tools & Technologies
-- SQL (Google BigQuery)
-- Power BI
-- Python (for data cleaning)
-- GitHub
+- Python (data cleaning and preprocessing)
+- SQL (Google BigQuery for analysis)
+- Power BI (data modeling and dashboarding)
+- GitHub (project version control)
+
 
 ---
 
@@ -66,4 +67,5 @@ Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## ✍️ Author
 Ashish Kharat
+
 
