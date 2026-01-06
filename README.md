@@ -65,7 +65,15 @@ Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
+## 📂 Power BI File
+The Power BI (.pbix) file is not included in this repository due to GitHub file size limitations.
+
+The dashboard file can be shared upon request.
+
+---
+
 ## ✍️ Author
 Ashish Kharat
+
 
 
