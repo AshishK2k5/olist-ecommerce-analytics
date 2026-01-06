@@ -1,0 +1,63 @@
+# Olist E-commerce Analytics Dashboard
+
+## 📌 Project Overview
+This project analyzes a real-world Brazilian e-commerce dataset (Olist) to uncover insights related to sales performance, customer behavior, payment methods, delivery efficiency, and regional demand. The goal was to build an end-to-end analytics solution using SQL and Power BI, focusing on correct data modeling and business-relevant insights.
+
+---
+
+## 🧰 Tools & Technologies
+- SQL (Google BigQuery)
+- Power BI
+- Python (for data cleaning)
+- GitHub
+
+---
+
+## 📊 Dashboard Pages
+
+### 1️⃣ Executive Overview
+- Total Revenue, Orders, and Customers
+- Monthly Revenue Trend (Delivered Orders)
+
+### 2️⃣ Sales & Category Performance
+- Revenue by Product Category
+- Revenue by Payment Method
+
+### 3️⃣ Customer Insights
+- One-time vs Repeat Customers
+- Top 10 Customers by Revenue
+
+### 4️⃣ Delivery & Geography
+- Average Delivery Time
+- On-Time vs Late Deliveries
+- Revenue by State
+- Orders by State
+
+---
+
+## 🔍 Key Insights
+- Revenue shows a clear upward trend over time.
+- A small number of product categories contribute the majority of revenue.
+- Over 95% of customers are one-time buyers, indicating low repeat retention.
+- Credit cards dominate payment methods.
+- Most orders are delivered on time with an average delivery duration of ~9 days.
+- Orders and revenue are heavily concentrated in a few states, especially São Paulo.
+
+---
+
+## 📁 Repository Structure
+
+---
+
+## 📸 Dashboard Preview
+Screenshots of all dashboard pages are available in the `screenshots/` folder.
+
+---
+
+## 📈 Dataset
+Dataset used: Olist Brazilian E-commerce Dataset (publicly available on Kaggle).
+
+---
+
+## ✍️ Author
+Ashish Kharat
