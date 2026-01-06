@@ -55,9 +55,15 @@ Screenshots of all dashboard pages are available in the `screenshots/` folder.
 ---
 
 ## 📈 Dataset
-Dataset used: Olist Brazilian E-commerce Dataset (publicly available on Kaggle).
+This project uses the Olist Brazilian E-commerce Dataset, which is publicly available on Kaggle.
+
+Due to GitHub file size limitations, the raw and cleaned CSV files are not stored in this repository.
+
+Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 
 ---
 
 ## ✍️ Author
 Ashish Kharat
+
